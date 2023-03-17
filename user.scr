@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Mon Apr 26 00:50:58 AM
+// File generated:  Wed Apr 21 00:00:46 AM
 //
 //
 // Cvar	-	Setting
@@ -132,7 +132,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "140" }
+		{ "100" }
 	}
 
 	"tf_dingaling_pitchmaxdmg"
@@ -140,7 +140,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "5" }
+		{ "30" }
 	}
 
 	"tf_dingalingaling_lasthit"
@@ -385,7 +385,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_HudPlayerClassUsePlayerModel"
 		"#ToolTip_HudPlayerClassUsePlayerModel"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"viewmodel_fov"
@@ -464,7 +464,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_RomeVisionOptIn"
 		"#Tooltip_RomeVisionOptIn"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"tf_hud_target_id_disable_floating_health"
@@ -534,7 +534,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#TF_UseMatchHUD"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"category5"
@@ -618,7 +618,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_DisableHTMLMOTD"
 		"#Tooltip_DisableHTMLMOTD"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"mp_decals"
@@ -626,7 +626,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_Multiplayer_Decal_Limit"
 		"#Tooltip_Multiplayer_Decal_Limit"
 		{ NUMBER 0 4096 }
-		{ "9" }
+		{ "1" }
 	}
 
 	"category7"

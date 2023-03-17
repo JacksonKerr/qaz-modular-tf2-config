@@ -1,9 +1,0 @@
-"serverblacklist"
-{
-	"server"
-	{
-		"name"		"[GFLClan.com] MGEMod | ELO | RANK | NEED STAFF"
-		"date"		"1615880034"
-		"addr"		"92.119.148.52:27015"
-	}
-}
