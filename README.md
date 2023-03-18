@@ -1,5 +1,6 @@
 QAZ's Modular CFG:
 
+Download: https://github.com/JacksonKerr/qaz-modular-tf2-config/releases
 
 IMPORTANT: Before installing you MUST put -console in your tf2 launch options!
 Tutorial here https://support.steampowered.com/kb_article.php?ref=1040-JWMT-2947
