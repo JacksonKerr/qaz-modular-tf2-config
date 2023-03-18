@@ -29,8 +29,11 @@ Loadout Switcher (Disabled by default)
 
 Screenshots:Console:
 https://i.imgur.com/LIb442k.png Main Menu
-https://i.imgur.com/tEwxxRK.png" target="_blank">Help Menu (Top)</a></li><li><a href="https://i.imgur.com/EseevUu.png" target="_blank">Help Menu (Scrolled Down)</a></li>
-https://i.imgur.com/eyJ9cQi.png" target="_blank">Plugins List</a></li></ul><h2>Quality Settings:</h2><ul>
+https://i.imgur.com/tEwxxRK.png Help Menu (Top)
+https://i.imgur.com/EseevUu.png Help Menu (Scrolled Down)
+https://i.imgur.com/eyJ9cQi.png Plugins List
+
+Quality Settings:
 https://imgur.com/d44Gbup" target="_blank">LOW</a></li>
 https://imgur.com/IKXvaAT" target="_blank">MEDIUM</a></li>
 https://imgur.com/TMHxz6y" target="_blank">HIGH</a></li>
