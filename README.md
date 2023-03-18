@@ -27,27 +27,23 @@ in the qaz_scripts/plugin_options file.
 * Loadout Switcher (Disabled by default)
 
 
-Screenshots:Console:
-https://i.imgur.com/LIb442k.png Main Menu
-https://i.imgur.com/tEwxxRK.png Help Menu (Top)
-https://i.imgur.com/EseevUu.png Help Menu (Scrolled Down)
-https://i.imgur.com/eyJ9cQi.png Plugins List
+
+Screenshots:
+
+Console:
+* https://i.imgur.com/LIb442k.png Main Menu
+* https://i.imgur.com/tEwxxRK.png Help Menu (Top)
+* https://i.imgur.com/EseevUu.png Help Menu (Scrolled Down)
+* https://i.imgur.com/eyJ9cQi.png Plugins List
 
 Quality Settings:
-https://imgur.com/d44Gbup LOW
-https://imgur.com/IKXvaAT MEDIUM
-https://imgur.com/TMHxz6y HIGH
-https://imgur.com/p9EHBqu EXTREME
+* https://imgur.com/d44Gbup LOW
+* https://imgur.com/IKXvaAT MEDIUM
+* https://imgur.com/TMHxz6y HIGH
+* https://imgur.com/p9EHBqu EXTREME
 
 
-DOWNLOAD LINK:
-https://www.dropbox.com/sh/2acqxamf206tr66/AADLWvbhoRVY6_21MHOXe8yLa?dl=0
-(Scroll Down To Latest Release)
-YOU DO NOT NEED TO LOG IN TO DROPBOX!
-Simply click x in the top right corner of the log in panel
+
 There are also a few customisable features, they can be accessed in the qaz_scripts/options file.
 Got any ideas for plugins? found a bug?
 Email me at Jacksonkerr2@gmail.com
-
-
-
